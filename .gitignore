@@ -1,0 +1,9 @@
+# Remover comentários para evitar que as credenciais definidas subam.
+
+# __pycache__/
+# *.pyc
+# .env
+# *.db
+# .airflow/
+# .minio/
+# .dags/
